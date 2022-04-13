@@ -1,0 +1,11 @@
+div#fansee-blog-meta-box * { box-sizing: border-box; }
+
+div#fansee-blog-meta-box .hndle.ui-sortable-handle { position: relative; padding: 15px; outline: none; width: 100%; font-weight: 600; text-align: left; color: #191e23; border: none; box-shadow: none; transition: background .1s ease-in-out; height: auto; font-size: 13px; }
+
+div#fansee-blog-meta-box .fansee-blog-metabox-select label { display: block; margin-bottom: 8px; }
+
+div#fansee-blog-meta-box .fansee-blog-metabox-select select { width: 100%; margin-bottom: 10px; }
+
+div#fansee-blog-meta-box .fansee-blog-metabox-checkbox { display: -ms-flexbox; display: flex; -ms-flex-align: center; align-items: center; margin-bottom: 10px; }
+
+div#fansee-blog-meta-box .fansee-blog-metabox-checkbox label { -ms-flex-order: 2; order: 2; }
